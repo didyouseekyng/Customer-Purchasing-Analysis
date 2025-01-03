@@ -1,6 +1,6 @@
 #Database Creation
-CREATE DATABASE Customer_Retention_analysis;
-USE Customer_Retention_analysis; 
+CREATE DATABASE customer_purchasing_analysis;
+USE customer_purchasing_analysis; 
 
 #Data Cleaning Process
 
